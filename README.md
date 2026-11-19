@@ -1,19 +1,21 @@
-<h1 align="center">Hola, soy María 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,50:7B3FE4,100:C4B5FD&height=200&section=header&text=Mar%C3%ADa%20Nadal&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Desarrolladora%20AEM%20%26%20Software%20%C2%B7%20Fundadora%20de%20MN%20Design%20Web&descSize=16&descAlignY=56" width="100%" />
+
 <p align="center">
-  <b>Desarrolladora AEM & Software · Fundadora de <a href="https://mndesignweb.es/">MN Design Web</a></b><br>
-  Perfil híbrido entre tecnología y negocio: convierto necesidades empresariales en webs, portales y plataformas a medida.
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=800&color=7B3FE4&center=true&vCenter=true&width=600&lines=Webs+y+plataformas+a+medida+%F0%9F%92%9C;React+%C2%B7+TypeScript+%C2%B7+Astro+%C2%B7+AEM;Especializada+en+el+sector+salud+%F0%9F%A9%BA;Tecnolog%C3%ADa+%2B+negocio" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
   <a href="https://mndesignweb.es/"><img src="https://img.shields.io/badge/mndesignweb.es-7B3FE4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mar%C3%ADa-nadal-masi%C3%A1-080a77315/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/mndesignweb/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.facebook.com/people/MN-Design-Web/61588142654941/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mar%C3%ADa-nadal-masi%C3%A1-080a77315/"><img src="https://img.shields.io/badge/LinkedIn-7B3FE4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/mndesignweb/"><img src="https://img.shields.io/badge/Instagram-7B3FE4?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/people/MN-Design-Web/61588142654941/"><img src="https://img.shields.io/badge/Facebook-7B3FE4?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 👩‍💻 Sobre mí
+
+Perfil híbrido entre **tecnología y negocio**: convierto necesidades empresariales en webs, portales y plataformas a medida.
 
 - 📍 Cocentaina, Alicante
 - 🏢 Fundadora, diseñadora y desarrolladora de **MN Design Web**: del primer asesoramiento a la entrega final.
@@ -33,17 +35,14 @@
 
 ### 🛠️ Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,astro,html,css,java,wordpress&perline=12" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,astro,html,css,java,wordpress,figma,git,github,vscode&perline=12" />
 </p>
-<p>
-  <img src="https://img.shields.io/badge/Adobe_Experience_Manager-FA0F00?style=for-the-badge&logo=adobe&logoColor=white" />
-  <img src="https://img.shields.io/badge/TanStack_Start-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
-  <img src="https://img.shields.io/badge/Shopify_Liquid-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode&perline=12" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Adobe_Experience_Manager-242938?style=for-the-badge&logo=adobe&logoColor=FA0F00" />
+  <img src="https://img.shields.io/badge/TanStack_Start-242938?style=for-the-badge&logo=reactquery&logoColor=FF4154" />
+  <img src="https://img.shields.io/badge/GSAP-242938?style=for-the-badge&logo=greensock&logoColor=88CE02" />
+  <img src="https://img.shields.io/badge/Shopify_Liquid-242938?style=for-the-badge&logo=shopify&logoColor=7AB55C" />
 </p>
 
 ### 📂 Proyectos destacados
@@ -58,3 +57,5 @@
 | ✨ [liquid-glass-card](https://github.com/MNMRYK/liquid-glass-card) | Tarjeta *liquid glass* estilo iPhone con fondo animado en GSAP |
 
 <p align="center"><i>¿Tienes un proyecto en mente? <a href="https://mndesignweb.es/">Hablemos</a> ✨</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C4B5FD,50:7B3FE4,100:5B21B6&height=120&section=footer" width="100%" />
