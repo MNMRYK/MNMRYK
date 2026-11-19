@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4C1D95"/>
+      <stop offset="0.5" stop-color="#7B3FE4"/>
+      <stop offset="1" stop-color="#C4B5FD"/>
+    </linearGradient>
+    <clipPath id="shape">
+      <path d="M0,0 H1200 V230 C1000,290 800,190 600,240 C400,290 200,200 0,250 Z"/>
+    </clipPath>
+    <style>
+      .font { font-family: 'Segoe UI', Inter, -apple-system, Helvetica, Arial, sans-serif; }
+      .title { font-size: 64px; font-weight: 700; fill: #FFFFFF; letter-spacing: -1px; }
+      .sub { font-size: 22px; font-weight: 500; fill: #EDE9FE; }
+      .rot { font-size: 19px; font-weight: 600; fill: #FFFFFF; opacity: 0; animation: rot 12s infinite; }
+      .r2 { animation-delay: 3s; }
+      .r3 { animation-delay: 6s; }
+      .r4 { animation-delay: 9s; }
+      @keyframes rot {
+        0% { opacity: 0; transform: translateY(8px); }
+        4%, 22% { opacity: 1; transform: translateY(0); }
+        26%, 100% { opacity: 0; transform: translateY(-8px); }
+      }
+      .in { animation: in 1.2s ease-out both; }
+      .in2 { animation-delay: .25s; }
+      @keyframes in { from { opacity: 0; transform: translateY(14px); } }
+      .w1 { animation: drift 9s ease-in-out infinite alternate; }
+      .w2 { animation: drift 13s ease-in-out infinite alternate-reverse; }
+      @keyframes drift { to { transform: translateX(-160px); } }
+      .glow { animation: glow 6s ease-in-out infinite alternate; }
+      @keyframes glow { to { opacity: .35; } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#shape)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <circle class="glow" cx="1040" cy="40" r="180" fill="#FFFFFF" opacity="0.12"/>
+    <circle class="glow" cx="140" cy="260" r="140" fill="#FFFFFF" opacity="0.08"/>
+    <path class="w1" d="M0,200 C200,150 400,250 600,200 C800,150 1000,250 1200,200 C1300,175 1400,200 1400,200 V300 H0 Z" fill="#FFFFFF" opacity="0.10"/>
+    <path class="w2" d="M0,225 C200,265 400,185 600,225 C800,265 1000,185 1200,225 C1300,245 1400,225 1400,225 V300 H0 Z" fill="#FFFFFF" opacity="0.08"/>
+  </g>
+
+  <g class="font" text-anchor="middle">
+    <text class="title in" x="600" y="105">María Nadal</text>
+    <text class="sub in in2" x="600" y="145">Desarrolladora AEM &amp; Software · Fundadora de MN Design Web</text>
+
+    <rect x="370" y="166" width="460" height="40" rx="20" fill="#FFFFFF" opacity="0.16"/>
+    <text class="rot" x="600" y="192">💜 Webs y plataformas a medida</text>
+    <text class="rot r2" x="600" y="192">⚛️ React · TypeScript · Astro · AEM</text>
+    <text class="rot r3" x="600" y="192">🩺 Especializada en el sector salud</text>
+    <text class="rot r4" x="600" y="192">🚀 Tecnología + negocio</text>
+  </g>
+</svg>
